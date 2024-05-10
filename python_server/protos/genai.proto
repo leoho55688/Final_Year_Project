@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package genai;
+
+// Chunk content
+message Chunk {
+    string meaning = 1;
+    string text = 2;
+}
+
+// Text Split request message
+message TextSplitRequest {
+    string content = 1;
+}
+
+// Text Split Response message
+message TextSplitResponse {
+    repeated Chunk content = 1;
+}
+
+// Q&A request message
+message QARequest {
+    string question = 1;
+    string context = 2;
+}
+
+// Q&A response message
+message QAResponse {
+    string answer = 1;
+}
+
+// MC generate request message
+message MCRequest {
+    string context = 1;
+}
+
+// MC generate response message
+message MCResponse {
+    string question = 1;
+    repeated string answers = 2;
+    string correct_answer = 3;
+    string explanation = 4;
+}
+
+// 
+service GenerativeAI {
+    rpc TextSplit (TextSplitRequest) returns (TextSplitResponse) {}
+    rpc QuestionAnwser (QARequest) returns (QAResponse) {}
+    rpc MultipleChoice (MCRequest) returns (MCResponse) {}
+}

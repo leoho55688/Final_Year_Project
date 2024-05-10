@@ -1,0 +1,6 @@
+{
+    "question": "Which protocol is the successor to SSL and is now widely used for establishing secure connections and protecting data in credit card transactions?",
+    "answers": ["(A) SSL", "(B) TLS", "(C) HTTPS", "(D) SSH"],
+    "correct_answer": "(B) TLS",
+    "explanation": "TLS (Transport Layer Security) is the successor to SSL and is now the widely used protocol for establishing secure connections and protecting data in credit card transactions."
+}
