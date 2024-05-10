@@ -1,0 +1,321 @@
+**Chunk 1:**
+
+**Text:**
+
+Pages 459-463, 485-503
+Capital Structure and Valuation
+(Part 1)
+
+**Meaning:**
+
+This chunk provides the page numbers and title of the content.
+
+**Chunk 2:**
+
+**Text:**
+
+Figure 13.2: USA Debt Ratios
+Long-term Debt to (Long-term Debt + Equity) Ratio for Non-Financial Firms
+
+**Meaning:**
+
+This chunk presents a figure showing the long-term debt ratios of non-financial firms in the USA.
+
+**Chunk 3:**
+
+**Text:**
+
+Capital Structure: Schools of Thought
+• Trade-off Theory: assumes strong-form EM
+o Find the borrowing ratio that will max the market value of the company
+(will also max shareholders’ wealth)
+• Company value is affected by market imperfection: tax shield from
+interest expenses versus financial distress costs
+o WACC and valuation formulae
+• Other schools of thought …
+
+**Meaning:**
+
+This chunk introduces different schools of thought on capital structure, including the trade-off theory, which considers the balance between tax benefits and financial distress costs.
+
+**Chunk 4:**
+
+**Text:**
+
+Trade-off Theory: Modigliani and Miller
+Assuming a perfect market first (no taxes, no transaction
+costs such as bankruptcy costs, strong-form EM); later
+only assuming strong-form EM
+The value of a firm : described by Balance Sheet (in
+market value)
+• Given the assets, will a change in the borrowing ratio affect the
+total value of assets (= PV of all the future cash flows)?
+
+**Meaning:**
+
+This chunk discusses the trade-off theory proposed by Modigliani and Miller, which assumes a perfect market and strong-form efficient markets.
+
+**Chunk 5:**
+
+**Text:**
+
+Perfect market: capital structure doesn’t matter
+Example - You own all the equity of a company. The company
+has no debt. Its annual expected EBIT is $1,000. The
+corporate tax rate is 0%. You may exchange some of your
+equity position for bonds (so, neither conflict between
+bondholder and stockholder nor bankruptcy costs).
+ All Equity Some Debt
+EBIT 1,000 1,000
+Interest 0 100
+Pretax Income 1,000 900
+Taxes @ 0% 0 0
+Dividend $1000 $900
+Your Cash Flow
+“All Equity” =
+1000
+“Some Debt” =
+900 + 100 = 1000
+
+**Meaning:**
+
+This chunk provides an example to illustrate that in a perfect market, capital structure does not affect the value of a firm.
+
+**Chunk 6:**
+
+**Text:**
+
+MM Proposition 1
+Expected EBIT from assets and the business risk (riskiness
+of EBIT) are not affected by how assets are financed
+•EBIT is only split into interests (risk-free) and dividends
+(risky).
+MM Proposition 1: The value of a firm
+•= PV (future cash flows)
+•is determined by the assets, not by D/E
+❑ Thus, only capital budgeting policy matters, borrowing
+policy and payout policy don’t matter
+
+**Meaning:**
+
+This chunk presents Modigliani and Miller's Proposition 1, which states that the value of a firm is determined by its assets and not by its capital structure.
+
+**Chunk 7:**
+
+**Text:**
+
+E A
+U U
+r
+E EBIT
+r
+E dividend V E
+( ) ( )
+= = =
+VL
+= D + E =VU
+Value of a Firm: MM Proposition 1
+For brevity, E(r) is written as r (E.g., E(rE
+) is written as rE
+)
+•Assume a zero-growth firm (dividend = net income, net capital spending
+= depreciation; see the next slide)
+•rA is the same for firm Unleveraged or firm Leveraged
+▪rf + βA
+(rM – rf
+)
+▪βA
+: risk of EBIT (business risk, affected by βrev and operating leverage)
+▪can be estimated using βE and financial leverage (see Notes3 and later notes)
+•E is PV of expected dividend discounted by rE
+, which is equal to (higher
+than) rA for an unleveraged (leveraged) firm (see Notes 3 and later notes)
+•D is PV of interest discounted by rD, almost risk-free
+
+**Meaning:**
+
+This chunk provides a mathematical formula for the value of a firm based on Modigliani and Miller's Proposition 1.
+
+**Chunk 8:**
+
+**Text:**
+
+Net Cash Flow (NCF): Chapter 6
+(in Chapter 18, NCF is renamed as Free Cash Flow)
+• The value of a project = PV of expected NCF
+▪ NCF = Operating Cash Flow (OCF) – net capital
+spending (NCS) – changes in Net Working Capital
+(NWC)
+▪ OCF = EBIT + depreciation – taxes (calculated as if no
+interest expenses)
+▪ NPV of a new project = the value of the project – initial
+cash outflows for the project
+• MM assume a zero-growth firm (perpetual
+expected cash flows)
+▪ depreciation = NCS, trivial annual changes in NWC
+▪ Thus, NCF = EBIT - taxes (calculated as if no interest
+expenses) = EBIT(1-TC
+)
+• For a company, NCF is usually renamed as FCF
+
+**Meaning:**
+
+This chunk defines net cash flow (NCF) and explains how it is used to calculate the value of a project.
+
+**Chunk 9:**
+
+**Text:**
+
+Value of Firm
+Debt
+VL=E+D, TC=0
+D
+E
+VU
+, TC=0
+D
+**Meaning:**
+
+This chunk shows a diagram of the value of a firm with and without debt, assuming no corporate taxes.
+
+**Chunk 10:**
+
+**Text:**
+
+E decreases when D increases
+• E’s decrease = D’s increase
+– the number of shares outstanding decreases
+– no change in share price
+• there is no advantage or disadvantage from
+borrowing
+
+**Meaning:**
+
+This chunk explains that in a perfect market with no corporate taxes, increasing debt does not affect the value of a firm.
+
+**Chunk 11:**
+
+**Text:**
+
+Q
+Price per share
+The black rectangle’s area = Equity of Firm U
+QU
+P
+Equity
+
+**Meaning:**
+
+This chunk shows a graph of the price per share of a firm with no debt.
+
+**Chunk 12:**
+
+**Text:**
+
+Q
+Price per share
+The black rectangle’s area = Equity of Firm L
+QL
+QU
+P
+Equity Replaced
+by Debt
+
+**Meaning:**
+
+This chunk shows a graph of the price per share of a firm with debt.
+
+**Chunk 13:**
+
+**Text:**
+
+Corporate Taxes
+Example - You own all the equity of a company. The
+company has no debt. Its annual expected EBIT is
+$1,000. The corporate tax rate is 40%. You may
+exchange some of your equity position for bonds (so,
+neither conflict between bondholder and stockholder nor
+bankruptcy costs).
+ All Equity Some Debt
+EBIT 1,000 1,000
+Interest 0 100
+Pretax Income 1,000 900
+Taxes @ 40% 400 360
+Dividend $600 $540
+Your Cash Flow
+“All Equity” = 600
+“Some Debt” = 540 + 100
+= 640
+
+**Meaning:**
+
+This chunk provides an example to illustrate the impact of corporate taxes on the value of a firm.
+
+**Chunk 14:**
+
+**Text:**
+
+Interest Tax Shield
+• Tax shield = 40 = 540 – 500 (= the dividend if
+interest weren’t regarded as expenses for tax calculation)
+▪ = TC
+(DrD
+)
+• PV (future tax shields) = TCDrD
+/ rD = TCD,
+assuming a zero-growth firm
+
+**Meaning:**
+
+This chunk explains the concept of the interest tax shield and how it can be calculated.
+
+**Chunk 15:**
+
+**Text:**
+
+A
+C
+U
+r
+E EBIT T V
+( )(1− )
+=
+VL
+= D+ E =VU
++TC
+D
+Value of Firm, TC>0: MM Proposition 1
+
+**Meaning:**
+
+This chunk provides a mathematical formula for the value of a firm with corporate taxes, based on Modigliani and Miller's Proposition 1.
+
+**Chunk 16:**
+
+**Text:**
+
+Value of Firm
+Debt
+VL
+, TC=0
+VL= E+D =VU+0.4D
+VU
+, TC=0
+VU
+, TC=0
+E
+D
+D
+PV(Tax shield)
+PV (Tax)
+
+**Meaning:**
+
+This chunk shows a diagram of the value of a firm with and without debt, assuming corporate taxes.
+
+**Chunk 17:**
+
+**Text:**
+
+E decreases < D increases
+• E’s decrease = D’s
