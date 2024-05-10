@@ -7,3 +7,7 @@ __pycache__/
 grpc_env/
 
 command.txt
+
+test.py
+test.txt
+text_test.py
